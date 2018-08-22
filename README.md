@@ -2,11 +2,11 @@
 
 ## Financial News
 
-* [Seeking Alpha](https://seekingalpha.com/){:target="_blank"}
+* [Seeking Alpha](https://seekingalpha.com/ "title" target="_blank")
 
-* [Zero Hedge](https://www.zerohedge.com/){:target="_blank"}
+* [Zero Hedge](https://www.zerohedge.com/)
 
-* [Investopedia](https://www.investopedia.com/uk/){:target="_blank"}
+* [Investopedia](https://www.investopedia.com/uk/)
 
 
 ## News
