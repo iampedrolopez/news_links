@@ -2,7 +2,7 @@
 
 ## Financial News
 
-* [Seeking Alpha](https://seekingalpha.com/ target="_blank")
+* [Seeking Alpha](https://seekingalpha.com/)
 
 * [Zero Hedge](https://www.zerohedge.com/)
 
